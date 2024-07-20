@@ -1,4 +1,6 @@
 # ViLearnX_Task-1: To-Do List Web Application
+### OUTPUT
+https://gauravsahuweb.github.io/ViLearnX_Task_1/
 
 ### Objective
 Create a user-friendly to-do list web application using HTML, CSS, and JavaScript, complete with comprehensive documentation providing a project overview.
@@ -37,8 +39,7 @@ Create a user-friendly to-do list web application using HTML, CSS, and JavaScrip
 
 1. **Clone the Repository**
    ```bash
-   git clone https://github.com/yourusername/todo-list-webapp.git
-   cd todo-list-webapp
+   git clone (https://github.com/gauravsahuweb/ViLearnX_Task_1)
    ```
 
 2. **Open the Project in Visual Studio Code**
